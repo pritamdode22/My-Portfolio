@@ -24,14 +24,3 @@ This portfolio is designed to present my profile as a **Software Developer / Fre
 - **Styling:** Custom CSS (Flexbox, Grid)  
 - **Tools:** VS Code, GitHub  
 
----
-
-## 📂 Project Structure
--portfolio/
--│── index.html
--│── css/
--│ └── style.css
--│── js/
--│ └── script.js
--│── images/
--│ └── profile.png
