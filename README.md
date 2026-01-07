@@ -27,11 +27,11 @@ This portfolio is designed to present my profile as a **Software Developer / Fre
 ---
 
 ## 📂 Project Structure
-portfolio/
-│── index.html
-│── css/
-│ └── style.css
-│── js/
-│ └── script.js
-│── images/
-│ └── profile.png
+-portfolio/
+-│── index.html
+-│── css/
+-│ └── style.css
+-│── js/
+-│ └── script.js
+-│── images/
+-│ └── profile.png
