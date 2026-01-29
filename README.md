@@ -26,12 +26,15 @@ The website is fully responsive and built using modern web technologies.
 - **GitHub Pages** – Hosting
 
 ## 📂 Project Structure
-'''My-Portfolio/'''
-'''├── index.html'''
-'''├── style.css'''
-'''├── script.js'''
-'''└── assets/'''
-'''├── images/'''
+
+
+- My-Portfolio/
+  - index.html
+  - style.css
+  - script.js
+  - assets/
+    - images/
+    
 
 
 
