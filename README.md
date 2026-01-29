@@ -26,14 +26,10 @@ The website is fully responsive and built using modern web technologies.
 - **GitHub Pages** – Hosting
 
 ## 📂 Project Structure
-<pre> ```markdown ## 📂 Project Structure ``` portfolio/ ├── index.html ├── style.css ├── script.js └── assets/ ├── images/ └── icons/ ``` </pre>
+ ```markdown ## 📂 Project Structure ``` portfolio/ ├── index.html ├── style.css ├── script.js └── assets/ ├── images/ └── icons/ ```
 
 
 
-## 💻 How to Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/pritamdode22/My-Portfolio.git
 
    
